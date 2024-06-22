@@ -1,59 +1,16 @@
-# iteca_master
- Project source control
+ITECA E-Commerce Website
 
-Project Name
-
-🚀 Introduction
-Welcome to Project Name! This project aims to [brief project purpose or goal]. Whether you're a seasoned developer or a newcomer, this repository is designed to help you [what users can achieve with your project].
-
-✨ Features
-Feature 1: Brief description of feature 1.
-Feature 2: Brief description of feature 2.
-Feature 3: Brief description of feature 3.
-📚 Table of Contents
 Introduction
+Project Name is designed to This project focuses on key web technologies and tools for web application development and the essentials
+of e-commerce. Instead of giving students a specific project to replicate, students are given the freedom to
+decide on a project idea or choose what they would like to build or develop. Students are thus expected to
+identify a potential local client (e.g., a large or small organization) and develop an e-commerce website for
+the client.
+Students are also expected to conduct requirement analysis, gather all information related to their specific
+client, and formulate a project proposal. Thereafter, build a database-driven e-commerce website, utilizing
+HTML, CSS, JavaScript, PHP, and MySQL to meet the client's needs or requirements.. This project aims to [primary objective or benefit]. Whether you are an experienced developer or new to this field, this repository offers [what users can achieve with your project].
+
 Features
-Installation
-Usage
-Contributing
-License
-Contact
-🛠️ Installation
-To get started with Project Name, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-Navigate to the project directory:
-bash
-Copy code
-cd your-repository
-Install dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-🚀 Usage
-Here's a quick guide to using Project Name:
-
-Step 1: Description of step 1.
-Step 2: Description of step 2.
-Step 3: Description of step 3.
-For more detailed usage instructions, please refer to the Documentation.
-
-🤝 Contributing
-We welcome contributions! Please see our CONTRIBUTING.md for more information on how to get started.
-
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-📬 Contact
-If you have any questions or feedback, feel free to reach out:
-
-Email: your-email@example.com
-GitHub: your-username
-Twitter: @your-twitter-handle
+Feature 1: [Detailed description of feature 1]
+Feature 2: [Detailed description of feature 2]
+Feature 3: [Detailed description of feature 3]
