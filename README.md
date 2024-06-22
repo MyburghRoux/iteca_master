@@ -20,4 +20,4 @@ HTML, CSS, JavaScript, PHP, and MySQL to meet the client's needs or requirements
 * sql
 
 ## Accesing the website
-The website is hosted on [fusionhardware.co.za]
+The website is hosted on [fusionhardware.co.za](https://fusionhardware.co.za/)
