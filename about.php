@@ -57,7 +57,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
         <p>Fusion Hardware is a project on E-Commerce Website. All products listed are fake. This project just gives a preview to what a real world implementation of E-Commerce Website will look like. 
         
 
-        <p>Why Fusion Hardware? I am believe that Computers can have the performace to match the looks. </p>
+        <p>Why Fusion Hardware? I believe that Computers can have the performace to match the looks. </p>
 
         <footer>
            <p style="text-align:center; font-size:0.8em;">&copy; Fusion Hardware. All Rights Reserved.</p>
