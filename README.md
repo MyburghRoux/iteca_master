@@ -12,6 +12,10 @@ HTML, CSS, JavaScript, PHP, and MySQL to meet the client's needs or requirements
 * vscode
 * xampp
 * siteworx (website hosting)
+* phpmyadmin
+* WinSCP
+* Github
+* Github Desktop
 
 ## Languages Used
 * HTML
